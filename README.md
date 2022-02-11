@@ -1,2 +1,1 @@
-# Query_Lab
-Paired Programming
+# querying-lab
